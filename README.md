@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamVigas
-- 👀 I’m interested in java programming
+- 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on other projects
 - 📫 How to reach me adamvigas1@gmail.com
